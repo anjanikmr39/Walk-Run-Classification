@@ -67,4 +67,4 @@ We have to analyse EDA part with respect to acceleration_x, acceleration_y, acce
 ------------
 
 ## **More information**
-Visit this python file for more detailed analysis [EquakeDamagePred.ipynb](https://github.com/anjanikmr39/EarthQuake-Damage-Prediction/blob/master/EquakeDamagePred.ipynb).
+Visit this python file for more detailed analysis [WalkRunClass.ipynb](https://github.com/anjanikmr39/Walk-Run-Classification/blob/master/WalkRunClass.ipynb)
